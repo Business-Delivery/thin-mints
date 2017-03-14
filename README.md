@@ -1,6 +1,6 @@
 # Location Bookmarks (thin-mints)
 
-## Download Latest Release: # [Releases](https://github.com/Business-Delivery/thin-mints/releases)
+## Download Latest Here: [Releases](https://github.com/Business-Delivery/thin-mints/releases)
 
 
 The purpose of this project is to allow users to inject location specific cookies (WHS + ZIP) via web browser bookmarks.
