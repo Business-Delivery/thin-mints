@@ -1,4 +1,6 @@
-# Location Bookmarks (thin-mints)
+# Latest Release: May2017
+
+## Location Bookmarks (thin-mints)
 
 ## Download Latest Here: [Releases](https://github.com/Business-Delivery/thin-mints/releases)
 
