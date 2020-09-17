@@ -1,5 +1,5 @@
 # Location Bookmarks (thin-mints)
-### Current Release: July2020
+### Current Release: Sept2020
 ### Download Latest Here: [Releases](https://github.com/Business-Delivery/thin-mints/releases)
 
 
